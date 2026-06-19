@@ -1,6 +1,6 @@
 # Excel-project-on-healthcare analysis
-Excel mini project
-Excel Health Data Analysis Project
+# Excel mini project
+# Excel Health Data Analysis Project
 
 This project involved a team-based analysis of healthcare records using Microsoft Excel. Our objective was to transform a messy dataset of patient visits, diagnoses, doctors, and treatment costs into clear, actionable insights.
 
