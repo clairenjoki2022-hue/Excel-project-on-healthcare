@@ -1,4 +1,4 @@
-# Excel-project-on-healthcare
+# Excel-project-on-healthcare analysis
 Excel mini project
 Excel Health Data Analysis Project
 
@@ -6,9 +6,9 @@ This project involved a team-based analysis of healthcare records using Microsof
 
 My Role: I contributed to data cleaning, formula application, and visualization design, ensuring the dataset was accurate, structured, and ready for reporting. I also helped create PivotTables and charts that summarized key metrics such as treatment costs, gender distribution, and diagnosis trends.
 
-Project Highlights:
+# Project Highlights:
 
-Cleaned and standardized raw healthcare data (removed duplicates, formatted dates, handled missing values).
+-Cleaned and standardized raw healthcare data (removed duplicates, formatted dates, handled missing values).
 
 -Applied advanced Excel formulas: IF, VLOOKUP, ROUND, statistical and date functions.
 
@@ -16,7 +16,7 @@ Cleaned and standardized raw healthcare data (removed duplicates, formatted date
 
 -Improved data readability through structured formatting and conditional highlighting.
 
-Key Insights & Learnings
+# Key Insights & Learnings
 
 Through our analysis, we uncovered several patterns in patient behavior, treatment costs, and provider performance:
 
@@ -30,7 +30,7 @@ Through our analysis, we uncovered several patterns in patient behavior, treatme
 
 -Provider Impact: A few doctors—particularly Dr. Wong, Dr. Lee, and Dr. Patel—handled a disproportionately high number of patients and cases, especially among the elderly, highlighting potential workload and resource distribution issues.
 
-What We Learned
+# What We Learned
 
 -Working as a team taught us how structured data cleaning, thoughtful analysis, and visualization can uncover critical operational insights from messy healthcare records. Beyond building dashboards, we focused on:
 
@@ -40,9 +40,6 @@ What We Learned
 
 -Presenting insights that can support strategic decisions like optimizing doctor allocation, understanding patient load by age, and identifying cost-heavy treatments.
 
-Collaboration: Completed as part of a group project, where each member contributed to different stages of cleaning, analysis, and presentation. Download to view the Excel and Powerpoint files
-
-About
-Team-based Excel project analyzing healthcare data. I contributed to cleaning and organizing datasets, applying formulas (IF, VLOOKUP, statistical, date), and creating PivotTables and charts to visualize treatment costs, diagnoses, and demographic trends for better insights and decision-making.
-
+# Collaboration
+Completed as part of a group project, where each member contributed to different stages of cleaning, analysis, and presentation. Download to view the Excel and Powerpoint files
 
